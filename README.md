@@ -10,6 +10,8 @@ This script can be fully customized to fit the needs of home networks, retail lo
 
 Simply follow the notes and alter any octets as-needed to customize it to your needs.
 
+If you need a quick way to map your network I would suggest using [Angry IP Scanner](https://angryip.org/) which is a free and open-source network scanner. Simply input a range you would like to scan and elect what information you would like it to gather and it will run a scan delivering information such as IP, Latency, MAC, etc.
+
 ### Executable Option
 If you would like to save time and make launching it simpler for users, you can turn it into an executable program. I reccomend using [PS2EXE](https://github.com/MScholtes/PS2EXE) personally. 
 
