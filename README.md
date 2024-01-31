@@ -18,3 +18,5 @@ If you want to take it one step further, you can make a **.ico** image with [GIM
 Due to the custom nature of this project as well as security purposes I do not and will never distribute an .exe version of this program. Only use an .exe version of this program if it is generated and approved by yourself and/or your appropriate colleagues.
 
 **This script is free and not intended to be sold, purchased or redistributed for money in any iteration. You may use it for professional use within those restrictions.**
+
+![Prompts](https://github.com/AlexandriasLibrary/PingCommander/blob/main/Prompts.png)
