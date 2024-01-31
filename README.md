@@ -1,9 +1,9 @@
 # PingCommander
-A functional powershell script template to ping various devices throughout a network.
+<p>A functional powershell script template to ping various devices throughout a network.<br>
 
-It works by offering a selection of octets and prompts to ping a specified group of devices within cmd windows.
+It works by offering a selection of octets and prompts to ping a specified group of devices within cmd windows.<br>
 
-This tool is a publicly available iteration of a tool I created for a major retail chain for tier 1 network support.
+This tool is a publicly available iteration of a tool I created for a major retail chain for tier 1 network support.</p>
 
 ## Intentions
 This script can be fully customized to fit the needs of home networks, retail locations, offices, internal networks, remote servers, etc.
