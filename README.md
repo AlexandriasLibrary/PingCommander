@@ -19,4 +19,14 @@ Due to the custom nature of this project as well as security purposes I do not a
 
 **This script is free and not intended to be sold, purchased or redistributed for money in any iteration. You may use it for professional use within those restrictions.**
 
-![Prompts](https://github.com/AlexandriasLibrary/PingCommander/blob/main/Prompts.png)
+![Prompts](https://github.com/AlexandriasLibrary/PingCommander/blob/main/Images/Prompts.png)
+
+Troubleshooting tips:
+Make sure you are launching it by right clicking the script and selecting "Run with Powershell" 
+![Run with Powershell](https://github.com/AlexandriasLibrary/PingCommander/blob/main/Images/Run%20with%20Powershell.png)
+
+If you are still having issues running this script you may need to verify that you are able to run unsigned Powershell scripts. Please verify by following these steps illustrated below.
+Search and select "Allow local Powershell scripts to be run without being signed"
+![Search Powershell](https://github.com/AlexandriasLibrary/PingCommander/blob/main/Images/Search%20Powershell.png)
+Toggle on "Change execution policy to allow local PowerShell scripts to run without being signing. Require signing for remote scripts."
+![Toggle](https://github.com/AlexandriasLibrary/PingCommander/blob/main/Images/Toggle%20Powershell%20Execution%20On.png)
