@@ -34,6 +34,6 @@ Search and select "Allow local Powershell scripts to be run without being signed
 
 ![Search Powershell](https://github.com/AlexandriasLibrary/PingCommander/blob/main/Images/Search%20Powershell.png)
 
-<p>Toggle on "Change execution policy to allow local PowerShell scripts to run without being signing. Require signing for remote scripts."</p>
+<p>Toggle on "Change execution policy to allow local PowerShell scripts to run without signing. Require signing for remote scripts."</p>
 
 ![Toggle](https://github.com/AlexandriasLibrary/PingCommander/blob/main/Images/Toggle%20Powershell%20Execution%20On.png)
